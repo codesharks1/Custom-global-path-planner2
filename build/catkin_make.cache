@@ -1,0 +1,2 @@
+nav_global_planner:turtlebot3_description
+-DCATKIN_DEVEL_PREFIX=/home/code/catkin_wp/devel -DCMAKE_INSTALL_PREFIX=/home/code/catkin_wp/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/code/catkin_wp/install
+
+Name: nav_global_planner
+Description: Description of nav_global_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

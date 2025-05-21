@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/code/catkin_wp/install/setup.sh
